@@ -20,6 +20,7 @@ function iLoveTheBeatles(num) {
   if (num < 15) {
     do {
       arr.push("I love the Beatles!");
+      i++;
     } while (i < num);
   }
 }
