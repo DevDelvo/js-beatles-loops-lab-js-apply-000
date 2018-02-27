@@ -24,6 +24,6 @@ function iLoveTheBeatles(num) {
     } while (i <= num);
     return arr;
   } else {
-    return "I love the Beatles!";
+    return ["I love the Beatles!"];
   }
 }
