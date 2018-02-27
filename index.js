@@ -6,6 +6,9 @@ function johnLennonFacts() {
   
 }
 
-function iLoveTheBeatles() {
-  
+function iLoveTheBeatles(num) {
+  var arr = [];
+  do while {
+    
+  }
 }
