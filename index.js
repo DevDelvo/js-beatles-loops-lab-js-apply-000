@@ -2,8 +2,12 @@ function theBeatlesPlay() {
   
 }
 
-function johnLennonFacts() {
-  
+function johnLennonFacts(facts) {
+  var factArray = [];
+  for (var i = 0; i < facts.length; i++) {
+    factArray.push(`${facts[i]}!!!`);
+  }
+  return factArray;
 }
 
 function iLoveTheBeatles(num) {
